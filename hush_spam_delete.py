@@ -4,7 +4,6 @@ import unittest
 import time
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.support.ui import WebDriverWait
 
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
