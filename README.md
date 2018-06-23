@@ -1,7 +1,7 @@
 # hushmail_spam_delete
 A simple Python script that uses Selenium WEBDriver to delete the spams from Hushmail.com Inbox
 
-You all know how Hushmail manages our spam reports against emails. We continously see spam mails getting landing in our inboxes. For this, I've designed this simple script to that I can go and make myself a cup of coffee while the spams are deleted off my mailbox.
+You all know how Hushmail manages our spam reports against emails. We continously see spam mails getting landing in our inboxes. For this, I've designed this simple script so that I can go and make myself a cup of coffee while the script does it's job.
 
 This script uses Selenium WEBDriver. And it can be installed easily, pip install selenium -U
 
