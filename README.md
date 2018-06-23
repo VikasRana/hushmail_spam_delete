@@ -13,4 +13,6 @@ In line 12, pss = '' ; put your password within quotes
 
 In line 40, assert assert_string2.text == 'YOUR_USER_THAT_YOU_SEE_ON_THE_TOP_RIGHT_OF_THE_PAGE'; put your username in quotes that you see on the top right of the page in BOLD
 
+In line 47, spam = ["", ""]; add spammers here within double quotes
+
 To run the script: python hush_spam_delete.py
