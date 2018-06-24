@@ -1,3 +1,6 @@
+Here is the fast version of this script, which doesn't involve opening of indivial emails for deletion. This here checks all the spams and deletes them all together, thus also saving bandwidth along with time. Go here, https://github.com/VikasRana/hushmail_spam_delete_fast_version
+
+
 # hushmail_spam_delete
 A simple Python script that uses Selenium WEBDriver to delete the spams from Hushmail.com Inbox
 
